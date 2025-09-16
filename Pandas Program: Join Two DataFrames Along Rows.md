@@ -1,12 +1,12 @@
-# 🧪 Pandas Program: Join Two DataFrames Along Rows
+# 5e) Pandas Program: Join Two DataFrames Along Rows
 
-## 🎯 AIM
+## AIM
 
 To write a Python program using Pandas to **join two DataFrames along rows** (row-wise concatenation) and assign all data to a new DataFrame.
 
 ---
 
-## 🧠 ALGORITHM
+## ALGORITHM
 
 1. **Import Libraries**: Import the `pandas` library.
 2. **Create First DataFrame**: Use a dictionary to create `student_data1`.
@@ -16,7 +16,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 
 ---
 
-## 💻 Program
+##  Program
 ```
 import pandas as pd
 a=eval(input())
